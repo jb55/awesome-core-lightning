@@ -7,6 +7,8 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 
 * [Community curated plugins for Core-Lightning.][lightningd-plugins]
 * [Circular][circular] - Plugin that helps routing nodes rebalance their channels
+* [CLBoss][clboss] - Plugin for automatic node management 
+* [PeerSwap][peerswap] - Plugin for automatic channel rebalancing 
 
 ## Tools
 
@@ -42,3 +44,5 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 [lnsocket]: https://github.com/jb55/lnsocket
 [rune-workshop]: https://jb55.com/runes
 [sendsats]: https://sendsats.lol
+[clboss]:https://github.com/ZmnSCPxj/clboss
+[peerswap]:https://www.peerswap.dev
