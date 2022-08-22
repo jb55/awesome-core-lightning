@@ -12,6 +12,12 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 
 * [lnurl-commando][lnurl-commando] - An lnurl/lnaddress server that fetches invoices over commando
 
+## Apps
+
+* [lnlink][lnlink] - An applepay-like iOS app for controlling a CLN node remotely via commando
+* [Payment Links][payment-links] - Create self-contained product payment links that work with any CLN node
+* [sendsats.lol][sendsats] - Get a lightning address for your CLN node. Powered by commando!
+
 ## Development
 
 ### Tools
@@ -23,13 +29,6 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 
 * [lnsocket][lnsocket] - A C/JS library for talking to lightning nodes and calling commando RPCs
 * [rune-decoder][rune-decoder] - JS library for decoding runes
-
-## Apps
-
-* [lnlink][lnlink] - An applepay-like iOS app for controlling a CLN node remotely via commando
-* [Payment Links][payment-links] - Create self-contained product payment links that work with any CLN node
-* [sendsats.lol][sendsats] - Get a lightning address for your CLN node. Powered by commando!
-
 
 
 [cln]: https://github.com/ElementsProject/lightning
