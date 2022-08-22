@@ -14,11 +14,7 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 
 ## Development
 
-### RPC
-
-There are a few ways to do RPC on your lightning node. There is commando (new in v0.12.0) which allows you to call jsonrpc methods over lightning TLVs. You can use [lnsocket][lnsocket] to establish lightning connection from any application to call these RPCs.
-
-There is also gRPC and REST methods methods as well.
+### Tools
 
 * [Rune Workshop][rune-workshop] - A web UI for constructing commando auth runes
 * [c-lightning-REST][cln-rest] - REST APIs for c-lightning written with node.js
