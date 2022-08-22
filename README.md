@@ -28,9 +28,6 @@ There is also gRPC and REST methods methods as well.
 
 * [lnlink][lnlink] - An applepay-like iOS app for controlling a CLN node remotely via commando
 * [Payment Links][payment-links] - Create self-contained product payment links that work with any CLN node
-
-## Services
-
 * [sendsats.lol][sendsats] - Get a lightning address for your CLN node. Powered by commando!
 
 
