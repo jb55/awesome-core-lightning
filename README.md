@@ -13,6 +13,7 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 ## Tools
 
 * [lnurl-commando][lnurl-commando] - An lnurl/lnaddress server that fetches invoices over commando
+* [Ride The Lightning (RTL)][rtl] - A device agnostic web user interface to help manage lightning node operations
 
 ## Apps
 
@@ -46,3 +47,4 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 [sendsats]: https://sendsats.lol
 [clboss]:https://github.com/ZmnSCPxj/clboss
 [peerswap]:https://www.peerswap.dev
+[rtl]:https://github.com/Ride-The-Lightning/RTL
