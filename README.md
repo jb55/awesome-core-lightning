@@ -33,7 +33,7 @@ There is also gRPC and REST methods methods as well.
 
 
 [lnlink]: https://lnlink.app
-[payment-links]: https://lnlink.org
+[payment-links]: http://lnlink.org
 [circular]: https://github.com/giovannizotta/circular
 [cln-rest]: https://github.com/Ride-The-Lightning/c-lightning-REST
 [lightningd-plugins]: https://github.com/lightningd/plugins
