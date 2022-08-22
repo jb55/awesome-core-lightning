@@ -25,6 +25,7 @@ There is also gRPC and REST methods methods as well.
 ## Apps
 
 * [lnlink][lnlink] - An applepay-like iOS app for controlling a CLN node remotely via commando
+* [Payment Links][payment-links] - Create self-contained product payment links that work with any CLN node
 
 ## Services
 
@@ -32,6 +33,7 @@ There is also gRPC and REST methods methods as well.
 
 
 [lnlink]: https://lnlink.app
+[payment-links]: https://lnlink.org
 [circular]: https://github.com/giovannizotta/circular
 [cln-rest]: https://github.com/Ride-The-Lightning/c-lightning-REST
 [lightningd-plugins]: https://github.com/lightningd/plugins
