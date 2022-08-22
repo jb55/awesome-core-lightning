@@ -22,10 +22,16 @@ There is also gRPC and REST methods methods as well.
 * [Rune Workshop][rune-workshop] - A web UI for constructing commando auth runes
 * [c-lightning-REST][cln-rest] - REST APIs for c-lightning written with node.js
 
+## Apps
+
+* [lnlink][lnlink] - An applepay-like iOS app for controlling a CLN node remotely via commando
+
 ## Services
 
 * [sendsats.lol][sendsats] - Get a lightning address for your CLN node. Powered by commando!
 
+
+[lnlink]: https://lnlink.app
 [circular]: https://github.com/giovannizotta/circular
 [cln-rest]: https://github.com/Ride-The-Lightning/c-lightning-REST
 [lightningd-plugins]: https://github.com/lightningd/plugins
