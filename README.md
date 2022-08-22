@@ -8,7 +8,11 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 * [Community curated plugins for Core-Lightning.][lightningd-plugins]
 * [Circular][circular] - Plugin that helps routing nodes rebalance their channels
 
-## Dev Tools
+## Tools
+
+* [lnurl-commando][lnurl-commando] - An lnurl/lnaddress server that fetches invoices over commando
+
+## Development
 
 ### RPC
 
@@ -33,6 +37,7 @@ There is also gRPC and REST methods methods as well.
 
 
 [cln]: https://github.com/ElementsProject/lightning
+[lnurl-commando]: https://github.com/jb55/lnurl-commando
 [lnlink]: https://lnlink.app
 [rune-decoder]: https://github.com/clams-tech/rune-decoder
 [payment-links]: http://lnlink.org
