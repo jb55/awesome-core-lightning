@@ -9,6 +9,7 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 * [Circular][circular] - Plugin that helps routing nodes rebalance their channels
 * [CLBoss][clboss] - Plugin for automatic node management 
 * [PeerSwap][peerswap] - Plugin for automatic channel rebalancing 
+* [Nostrify][nostrify] - Plugin for sending CLN events to Nostr
 
 ## Tools
 
@@ -48,3 +49,4 @@ A curated list of awesome [core-lightning][cln] projects and plugins
 [clboss]:https://github.com/ZmnSCPxj/clboss
 [peerswap]:https://www.peerswap.dev
 [rtl]:https://github.com/Ride-The-Lightning/RTL
+[nostrify]:https://github.com/joelklabo/nostrify
